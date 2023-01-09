@@ -10,8 +10,8 @@ $mail->Mailer = 'smtp';
 $mail->SMTPSecure = 'tls';
 
 $mail->SMTPAuth = true;
-$mail->Username = "ksbcell12@gmail.com";
-$mail->Password = "cefoekzqwwzmouyv";
+$mail->Username = "vlos.tech@somaiya.edu";
+$mail->Password = "kwdwhjlzdzfawpwo";
 
 //Sender Info
 $mail->From = "sgbcell@gmail.com";
