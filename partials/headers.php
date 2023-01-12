@@ -72,7 +72,7 @@ error_reporting(E_ALL);
                     <li><a href="profile.php" style="font-family: 'Poppins'; color:white; font-size:150%;margin-top: 0.8em;">My Profile</a></li>
                     <li><a href="members.php" style="font-family: 'Poppins'; color:white; font-size:150%;margin-top: 0.8em">Members</a></li>
                     <li><a href="logout.php" style="font-family: 'Poppins'; color:white; font-size:150%;margin-top: 0.8em">Logout</a></li>
-                    <li><a href="../Virtual Lab finally/index.html" style="font-family: 'Poppins'; color:white;font-size:150%;margin-top: 0.8em;">Site</a></li>
+                    <li><a href="../Virtual Lab finally/index.html" style="font-family: 'Poppins'; color:white;font-size:150%;margin-top: 0.8em;">Portal</a></li>
                  <?php else: ?>
                     <li><a href="../aboutus.php" style="font-family: 'Poppins'; color:white;font-size:150%;margin-top: 0.8em;padding-right:0.7em">About Us</a></li>
                     <li><a href="login.php" style="font-family: 'Poppins'; color:white;font-size:150%;margin-top: 0.8em;padding-right:0.7em">Login</a></li>

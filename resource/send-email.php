@@ -14,5 +14,5 @@ $mail->Username = "vlos.tech@somaiya.edu";
 $mail->Password = "kwdwhjlzdzfawpwo";
 
 //Sender Info
-$mail->From = "sgbcell@gmail.com";
-$mail->FromName = "K.J. Somaiya Institute of Engineering and Information Technology";
+$mail->From = "vlos.tech@somaiya.edu";
+$mail->FromName = "K.J. Somaiya Institute of Technology";
