@@ -59,7 +59,7 @@ error_reporting(E_ALL);
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <div class="img"><img src="../uploads/Somaiya12.png" alt="pic" style="height:90px ; width: 350px; margin-right:50px;  display:flex; flex-direction:row; -ms-flex-align: start;"></div>
+            <div class="img"><img src="../uploads/Somaiya1.png" alt="pic" style="height:90px ; width: 350px; margin-right:50px;  display:flex; flex-direction:row; -ms-flex-align: start;"></div>
         
         </div>
         
